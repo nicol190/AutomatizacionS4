@@ -48,5 +48,5 @@ jobs:
       with:
         name: Reportes-Automation
         path: |
-          target/surefire-reports/
+          automatizacion_pedido/
           reports/
